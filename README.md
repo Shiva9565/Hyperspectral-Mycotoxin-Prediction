@@ -1,5 +1,12 @@
 # Hyperspectral-Mycotoxin-Prediction
+ 
 
+![Spectral Data Prediction]()  
+<img width="958" alt="Screenshot 2025-03-13 at 4 54 14 PM" src="https://github.com/user-attachments/assets/868db99d-bc34-4812-a1ba-f0f9bb9b492b" />
+
+🔗 **Live Demo**: [Visit the Website](https://hyperspectral-mycotoxin-prediction-shiva.streamlit.app/)  
+
+---
 
 ## ✨ Features  
 🔍 **Vomitoxin Prediction**: Predicts vomitoxin levels in spectral data using a deep learning model.  
@@ -63,6 +70,7 @@ streamlit run app.py
 │── scaler.pkl                    # Scaler for input features  
 │── TASK-ML-INTERN.csv            # Sample dataset  
 │── tuned_ann_model.h5            # Trained ANN model  
+│── your-image.png                # Project banner image  
 ```
 
 ---
@@ -87,7 +95,16 @@ The model analyzes hyperspectral bands and identifies **patterns in reflectance*
 
 ---
 
+## 🌐 Live Demo  
+Check out the **live application** at: [Visit the Website](https://yourwebsite.com)  
+
+---
+
 ## 👨‍💻 Author  
 Developed by **Shiva Kant Pandey**  
 
-🚀 Ready to revolutionize spectral data analysis? Let's go! 🎯
+🚀 Ready to revolutionize spectral data analysis? Let's go! 🎯  
+
+---
+
+🔹 **Note**: Replace `"your-image.png"` with the actual image filename and `"https://yourwebsite.com"` with your actual website link before publishing on GitHub.

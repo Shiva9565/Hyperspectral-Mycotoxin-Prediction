@@ -96,7 +96,7 @@ The model analyzes hyperspectral bands and identifies **patterns in reflectance*
 ---
 
 ## 🌐 Live Demo  
-Check out the **live application** at: [Visit the Website](https://yourwebsite.com)  
+Check out the **live application** at: [Visit the Website](https://hyperspectral-mycotoxin-prediction-shiva.streamlit.app/)
 
 ---
 
@@ -104,7 +104,3 @@ Check out the **live application** at: [Visit the Website](https://yourwebsite.c
 Developed by **Shiva Kant Pandey**  
 
 🚀 Ready to revolutionize spectral data analysis? Let's go! 🎯  
-
----
-
-🔹 **Note**: Replace `"your-image.png"` with the actual image filename and `"https://yourwebsite.com"` with your actual website link before publishing on GitHub.
